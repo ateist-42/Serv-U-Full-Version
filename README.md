@@ -240,4 +240,4 @@ This repository serves as the official landing page for Serv-U. The software is 
 **Get the most recent version of Serv-U today!**
 
 ---
-**Last updated:** 2026-10-05 18:06:27 UTC
+**Last updated:** 2026-10-06 00:39:52 UTC
